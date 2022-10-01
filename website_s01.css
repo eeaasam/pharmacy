@@ -1,0 +1,110 @@
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+body {
+    font-family: Arial, cwtexyen, sans-serif;
+    font-size: 14pt;
+}
+
+.navbar {
+    padding: 0px;
+    background-color:#FF8000;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
+
+.dropdown-item {
+    color: #337AB7 !important;
+    font-size:larger;
+}
+
+.dropdown>.show>a:hover,
+.dropdown>.show>a:focus{
+    color: #fff !important;
+    background-color:#767676;
+}
+
+.row .col-md-2 .sidebar {
+	border: 2px solid #dfdfdf; 
+	background-color: #F7F7F7; 
+}
+.sidebar {
+	padding: 5px;
+}
+.card-body table td:hover {
+    background-color: antiquewhite;
+}
+.card-body {
+    padding: 0px;
+} 
+.table{
+    margin-bottom: 0px;
+} 
+.table td {
+    border-top: none;
+    border-bottom: 1px solid #dee2e6;
+    padding-left: 2.5rem;
+}  
+td>em{
+    margin-right: 5px;
+}
+#content{
+    margin-top:10px;
+}
+#aboutme {
+	background-color: #31384a;
+	color: #FFFFFF;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#last-data {
+	height: 100px;
+	background-color: #B4B4B4;
+    padding-top: 10px;
+}
+.breadcrumb {
+    background-color:rgba(233,236,239,0.5);
+}
+.color_e600a0{
+    color: #e600a0;
+}
+.badge.badge-info {
+     font-size: 50%;
+}   
+.color-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745; 
+}
+.card.text-center.mt-3 img{
+    opacity: 1;
+    transition: opacity 1s ease;
+    -moz-transition: opacity 1s ease;
+    -webkit-transition: opacity 1s ease;
+    -o-transition: opacity 1s ease;
+}
+.card.text-center.mt-3 img:hover{
+    opacity: 0.5;
+    border: #e600a0 1px solid;
+}
+.card .row.mt-2 .col-md-4 a>img:hover{
+    border: #e600a0 1px solid;
+}
+.color_red{
+    color:red;
+}
+.table-responsive-md table td{
+    vertical-align: middle;
+    text-align: center;
+
+}
+.table-responsive-md table tfoot td{
+    text-align: center;
+}
+.table-responsive-md table tr:hover{
+    background-color: rgba(152, 214, 245, 0.3);
+}
