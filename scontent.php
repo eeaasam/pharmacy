@@ -4,22 +4,24 @@
                 </div>
                 <div class="col-md-2"> <i class="fa fa-thumbs-o-up fa-5x"></i>
                     <h3>關於我們</h3> 關於我們
-                    <br> 企業官網
-                    <br> 招商專區
-                    <br> 人才招募
+                    <br> 健身房歷史
+                    <br> 健身房簡介
+                    <br> 名人蹤跡
                     <br>
                 </div>
                 <div class="col-md-2"> <i class="fa fa-truck fa-5x"></i>
-                    <h3>特色服務</h3> 大宗採購方案
-                    <br> 直配內地
+                    <h3>最新消息</h3> 全部消息
+                    <br> 最新活動
+                    <br>公益贊助
+                    <br>APP服務條款
                     <br>
                 </div>
                 <div class="col-md-2"> <i class="fa fa-users fa-5x"></i>
-                    <h3>客戶服務</h3> 訂單/配送進度查詢
-                    <br> 取消訂單/退貨
-                    <br> 更改配送地址
-                    <br> 追蹤清單 <br> 12H速達服務
-                    <br> 折價券說明
+                    <h3>私人教練</h3> 了解教練課程
+                    <br> 私人教練好處
+                    <br> 私人教練介紹
+                    <br> 最新課程器材 <br> 會員成果見證
+                    
                     <br>
                 </div>
                 <div class="col-md-2"> <i class="fa fa-money fa-5x"></i>
@@ -29,8 +31,7 @@
                 </div>
                 <div class="col-md-2"><i class="fa fa-question fa-5x"></i>
                     <h3>FAQ 常見問題</h3> 系統使用問題
-                    <br> 產品問題資詢
-                    <br> 大宗採購問題
+                    <br> 課程問題資詢
                     <br> 聯絡我們
                     <br>
                 </div>

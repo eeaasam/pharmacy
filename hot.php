@@ -5,7 +5,7 @@
                     ?>
                     <div class="card text-center mt-3" style="border:none;">
                         <div class="card-body">
-                            <h3 class="card-title">站長推薦，熱銷商品</h3>
+                            <h3 class="card-title">熱門課程</h3>
                         </div>
                         <?php while ($data = mysqli_fetch_array($hot)) { ?>
                         <a href="goods.php?p_id=<?php echo $data['p_id']; ?>">    

@@ -4,7 +4,7 @@ $SQLstring = "SELECT * FROM cart,product,product_img where ip='" . $_SERVER['REM
 $cart_rs = mysqli_query($link, $SQLstring);
 $pTotal = 0;  //設定累加變數$pTotal
 ?>
-<h3>電商藥粧：購物車</h3>
+<h3>晨升運動中心：購物車</h3>
 <?php if ($cart_rs->num_rows != 0) { ?>
     <form action="checkout.php" method="post" id="cartForm1" name="cartForm1">
         <a href="index.php" id="btn01" name="btn01" class="btn btn-primary">繼續購物</a>

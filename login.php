@@ -109,7 +109,7 @@ if (isset($_SESSION['login'])) {
                     <!-- 會員登入html -->
                     <div class="mycard mycard-container">
                         <img id="profile-img" class="profile-img-card" src="images/logo03.svg" alt="logo">
-                        <p id="profile-name" class="profile-name-card">電商藥粧：會員登入</p>
+                        <p id="profile-name" class="profile-name-card">晨升運動中心：會員登入</p>
                         <form action="" method="POST" class="form-signin" id="form1">
                             <input type="email" id="inputAccount" name="inputAccount" class="form-control" placeholder="Account" required autofocus />
                             <input type="password" id="inputPassword" name="inputPassword" class="form-control" placeholder="Password" required />

@@ -20,9 +20,9 @@
                     <?php } ?>    
                     <li class="nav-item"><a class="nav-link" href="#">會員中心</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">最新活動</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">查訂單</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link" href="#">查訂單</a></li> -->
                     <li class="nav-item"><a class="nav-link" href="#">折價券</a></li>
-                    <li class="nav-item"><a class="nav-link" href="cart.php">購物車<span class="badge badge-info"><?php echo ($cart_rs)?$cart_rs->num_rows:''; ?></span></a></li>
+                    <!-- <li class="nav-item"><a class="nav-link" href="cart.php">購物車<span class="badge badge-info"><?php echo ($cart_rs)?$cart_rs->num_rows:''; ?></span></a></li> -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">企業專區</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -30,11 +30,11 @@
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="#">全台門市資訊</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">供應商報價服務</a>
-                            <div class="dropdown-divider"></div>
+                            <!-- <a class="dropdown-item" href="#">供應商報價服務</a> -->
+                            <!-- <div class="dropdown-divider"></div> -->
                             <a class="dropdown-item" href="#">加盟專區</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">投資人專區</a>
+                            <!-- <div class="dropdown-divider"></div> -->
+                            <!-- <a class="dropdown-item" href="#">投資人專區</a> -->
                         </div>
                     </li>
                 </ul>

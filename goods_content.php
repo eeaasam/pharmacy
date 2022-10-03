@@ -22,16 +22,16 @@
                 <p class="card-text"><?php echo $data['p_intro']; ?></p>
                 <h4 class="color_e600a0">$<?php echo $data['p_price']; ?></h4>
                 <div class="row mt-3">
-                    <div class="col-md-6">
-                        <div class="input-group input-group-lg">
+                    <!-- <div class="col-md-6"> -->
+                        <!-- <div class="input-group input-group-lg">
                             <div class="input-group-prepend">
                                 <span class="input-group-text color-success" id="inputGroup-sizing-lg">數量</span>
                             </div>
                             <input type="number" class="form-control" aria-label="Sizing example input" id="qty" name="qty" value="1" aria-describedby="inputGroup-sizing-lg">
-                        </div>
-                    </div>
+                        </div> -->
+                    <!-- </div> -->
                     <div class="col-md-6">
-                        <button name="button01" id="button01" type="button" class="btn btn-success btn-lg" onclick="addcart(<?php echo $data['p_id']; ?>)">加入購物車</button>
+                        <button name="button01" id="button01" type="button" class="btn btn-success btn-lg" onclick="addcart(<?php echo $data['p_id']; ?>)">我要參加</button>
                     </div>
                 </div>
             </div>
